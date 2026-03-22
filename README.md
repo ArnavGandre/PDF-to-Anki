@@ -6,8 +6,6 @@ A tool that converts PDF documents into Anki flashcards using AI models for ques
 
 ## Quick Start
 
-### For Average Users
-
 1. **Install Python** (if not already installed)
    - Download from python.org
    - Version 3.8 or higher required
