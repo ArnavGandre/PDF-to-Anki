@@ -298,5 +298,4 @@ For issues and questions:
 1. Check the troubleshooting section
 2. Review existing issues on GitHub
 3. Create a new issue with detailed information
-4. Include error messages and system information</content>
-<parameter name="filePath">/home/kitty/Desktop/ankiproject/README.md
+4. Include error messages and system information
