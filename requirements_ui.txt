@@ -1,0 +1,8 @@
+gradio
+pdfplumber
+sentence-transformers
+genanki
+groq
+google-genai
+transformers
+torch

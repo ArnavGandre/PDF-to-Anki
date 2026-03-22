@@ -1,0 +1,40 @@
+{
+    "pairs": [
+        {
+            "front": "What is the nature of covalent bonding in atoms?",
+            "back": "Covalent bonding arises when two atoms share electron pairs, achieving greater stability than either atom possesses in isolation."
+        },
+        {
+            "front": "How does Hybridization theory account for the observed geometry of molecules?",
+            "back": "Hybridization theory proposes that atomic orbitals mix to form new hybrid orbitals of equivalent energy and distinct spatial orientation, leading to a bond dipole moment."
+        },
+        {
+            "front": "What is the VSEPR model, and what principles are it based on?",
+            "back": "The Valence Shell Electron Pair Repulsion (VSEPR) model provides a systematic framework for predicting the three-dimensional arrangement of atoms in molecules. It requires the central postulate that electron pairs arrange themselves to minimize mutual repulsion, thereby adopting a tetrahedral geometry. Lone pairs exert greater repulsive force than bonding pairs because they are held closer to the nucleus and occupy more diffuse spatial regions."
+        },
+        {
+            "front": "Why do some elements have more than four electron pairs in their valence shell?",
+            "back": "Some elements such as phosphorus and sulfur can accommodate more than four electron pairs in their valence shell by utilizing d orbitals. This phenomenon is known as hypervalence."
+        },
+        {
+            "front": "What is the difference between a saturated hydrocarbon and an unsaturated hydrocarbon?",
+            "back": "A saturated hydrocarbon has one 2s orbital with three 2p orbitals, while an unsaturated hydrocarbon has one 2s orbital with three 2p orbitals."
+        },
+        {
+            "front": "How does VSEPR theory predict the geometry of molecules?",
+            "back": "VSEPR theory predicts that molecules with four bonding pairs and no lone pairs adopt a tetrahedral geometry. The introduction of one lone pair distorts this to a trigonal pyramidal arrangement, and two lone pairs yield a bent or V-shaped molecule."
+        },
+        {
+            "front": "What is the VSEPR model based on and what principles are it based on?",
+            "back": "The Valence Shell Electron Pair Repulsion (VSEPR) model provides a systematic framework for predicting the three-dimensional arrangement of atoms in molecules. It requires the central post"
+        },
+        {
+            "front": "What is the concept of the derivative and its relationship with differentiation and integration?",
+            "back": "The derivative of a function is one of the two central objects of study in calculus, the other being the integral, and its conceptual development marked a decisive transition in the history of mathematics. Informally, the derivative of a function at a point x measures the instantaneous rate at which f changes with respect to x, more precisely, it is defined as the limit of the difference quotient - the ratio of the change in function value to the change in input - as the change in input approaches zero. The limiting process, when it yields a finite value, is said to converge, and the function is described as differentiable at that point. The geometric interpretation of the derivative as the slope of the tangent line to the graph of a function at a given point is perhaps the most intuitively accessible entry into the concept. Prior to the formalization of limits by Cauchy and Weierstrass in the nineteenth century, Newton and Leibniz developed their respective calculus frameworks through intuitions about infinitesimals - quantities smaller than any finite number yet not zero. The rules of differentiation - the product rule, quotient rule, and chain rule - collectively reduce the differentiation of arbitrarily complex functions to a mechanical procedure applied to elementary components. The chain rule is particularly important in applied contexts, when a quantity depends on an intermediate variable which itself depends on a primary variable. The concept of the derivative extends iteratively, with the second derivative providing information about concavity and the acceleration of motion in physical applications. A positive second derivative at a critical point confirms a local minimum, while a negative value marks a local maximum. Integration and the Fundamental Theorem of Calculus establish a profound and non-obvious connection between differentiation and integration. The Fundamental Theorem of Calculus states that the derivative of the integral of a continuous function, taken with respect to the upper limit of integration, returns the original function. The first part of the theorem asserts that the derivative of the integral of a function over an interval can be evaluated by finding an antiderivative - a function whose derivative is the integrand - and computing the difference of its values at the endpoints."
+        },
+        {
+            "front": "What led to the structural drain on imperial resources in the Deccan campaigns and how did it impact the imperial war effort?",
+            "back": "The Deccan campaigns deserve particular attention as a structural drain on imperial resources. Beginning in 1681 and continuing until Aurangzeb's death in 1707, these operations consumed vast quantities of revenue and manpower in the effort to subdue the Maratha confederacy under Shivaji and his successors. The Marathas, employing guerrilla tactics ideally suited to the terrain of the Western Ghats, proved impossible to defeat decisively; each apparent imperial victory was followed by the re-emergence of resistance in a different quarter. The campaign thus became a war of attrition that the empire was structurally ill-equipped to sustain, given the dependence of the Mughal fiscal system on the regular collection of land revenue from settled agricultural populations rather than from the kind of prolonged military mobilization the Deccan required. The succession crisis that followed Aurangzeb's death accelerated the centrifugal tendencies already visible during his reign, leading to the defeat of the imperial war effort in the 1720s. The succession of emperors rose and fell in rapid sequence, with nominal authority increasingly nominal as regional governors \u2014 the nawabs of Bengal, Awadh, and Hyderabad \u2014 consolidated effective control over the revenues and military resources of their provinces. The invasions of Nadir Shah in 1739 and Ahmad Shah Durrani between 1748 and 1761 delivered blows from which the empire could not recover. The Third Battle of Panipat in 1761, in which the Maratha confederacy suffered a catastrophic defeat at the hands of Ahmad Shah Durrani, paradoxically weakened the only remaining Indian power capable of contesting the growing influence of the British East India Company, thereby clearing the way for the colonial order that would define the subcontinent for the following two centuries."
+        }
+    ]
+}
